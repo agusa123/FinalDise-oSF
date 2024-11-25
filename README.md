@@ -1,0 +1,1 @@
+El patrón seleccionado es Observer. Este patrón ofrece una solución para notificar a observadores sobre cambios en el estado de un sujeto. Ademas permite manejar suscripciones de los observadores a los sujetos (productos) con mucha facilidad y flexibilidad. Este patrón establece una relación uno-a-muchos lo que lo vuelve ideal para resolver esta situación problema. 
